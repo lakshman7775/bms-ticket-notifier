@@ -1,45 +1,93 @@
 {
   "shows": {
-    "PVPZ|36129|20260731|ELITE": {
+    "PVPZ|36040|20260801|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
-      "date": "20260731",
+      "time": "06:30 PM",
+      "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
       "status": "0"
     },
-    "PVPZ|36129|20260731|BUDGET": {
+    "PVPZ|36040|20260801|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
-      "date": "20260731",
+      "time": "06:30 PM",
+      "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
     },
-    "INPR|63860|20260731|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "10:30 PM",
-      "date": "20260731",
+    "PVPZ|36131|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
+      "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
+      "status": "0"
+    },
+    "PVPZ|36131|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
       "status": "1"
     },
-    "INPR|63860|20260731|BUDGET": {
+    "INPR|63944|20260801|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "10:30 PM",
-      "date": "20260731",
+      "time": "07:10 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "INPR|63944|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:10 PM",
+      "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
+    },
+    "INPR|63945|20260801|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:30 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "INPR|63945|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:30 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PVSR|26358|20260801|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "08:10 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PVSR|26358|20260801|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "08:10 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
     }
   },
   "dates": {
-    "20260731": "BOOKABLE",
-    "20260801": "AVAILABLE",
+    "20260801": "BOOKABLE",
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
-    "20260806": "AVAILABLE"
+    "20260806": "AVAILABLE",
+    "20260807": "NOT_OPEN"
   }
 }
